@@ -1,0 +1,8 @@
+/env/
+/backup/
+/img/
+/scripts/
+/src/
+/docs/
+/__pycache__
+.DS_Store
