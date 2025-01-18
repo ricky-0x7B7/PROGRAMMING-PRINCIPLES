@@ -29,9 +29,9 @@ def wait_for_input():
     input("\n⌛ --> Premi ENTER per tornare al menù principale <--")
 
 
-""""
+"""
 MENÙ INTERATTIVO
-""""
+"""
 
 # VOCE MENÙ n.1: mostra tutti i film presenti nella collezione.
 def voce_menu_1(library):
